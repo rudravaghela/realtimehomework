@@ -1,0 +1,24 @@
+.heading_tag{
+    width: 100%;
+    font-size: 50px ;
+    box-shadow: 5px 5px 5px orange;
+    color: palegreen;
+}
+
+.heading_tag2{
+padding: 20px;
+float: none;
+background-color: orange;
+font-size: 30px;
+border-radius: 20px;
+color:black;
+}
+
+.objects {
+    color: white;
+    float: none;
+    background-color:violet;
+    font-size: 15px;
+    border-radius: 15px;
+    
+}
